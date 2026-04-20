@@ -1,0 +1,19 @@
+model,category,WER,CER
+renikud,Gender,0.2308,0.0914
+renikud,Acronyms,1.0,0.3202
+renikud,Secondary Stress,0.2308,0.0304
+renikud,Rare Phonemes,0.6538,0.2139
+renikud,Foreign,0.4333,0.0993
+renikud,Names,0.48,0.1419
+renikud,Homographed stress,0.3333,0.0996
+renikud,Slang,0.3793,0.117
+renikud,OVERALL,0.4581,0.1316
+phonikud,Gender,0.5,0.1613
+phonikud,Acronyms,0.5385,0.1527
+phonikud,Secondary Stress,0.5385,0.0913
+phonikud,Rare Phonemes,0.6923,0.237
+phonikud,Foreign,0.7,0.1728
+phonikud,Names,0.6,0.1935
+phonikud,Homographed stress,0.4103,0.1402
+phonikud,Slang,0.7586,0.269
+phonikud,OVERALL,0.5859,0.1694
