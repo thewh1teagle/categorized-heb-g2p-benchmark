@@ -1,6 +1,6 @@
 """
 Download models before running:
-    wget https://huggingface.co/thewh1teagle/renikud/resolve/main/model.onnx -O renikud.onnx
+    wget https://huggingface.co/thewh1teagle/renikud-exp/resolve/main/model.fp32.onnx -O renikud.onnx
     wget https://huggingface.co/thewh1teagle/phonikud-onnx/resolve/main/phonikud-1.0.int8.onnx -O phonikud.onnx
 """
 
